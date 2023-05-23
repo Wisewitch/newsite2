@@ -1,0 +1,50 @@
+/*  ez az id formázása */ 
+body {
+    background: #222; 
+}
+main {
+    background: #ccc; 
+    width: 93%;
+    float: left;
+    margin: 0px auto;
+}
+#content {
+    background: #fff; 
+    width: 72%;
+    float: left;
+    margin: 0px;
+}
+
+.box { 
+    
+    background: lightgreen;
+    color: #222;
+    width: 25%;
+    height: 300px;
+    float: left;
+   }
+
+   
+
+aside {
+    float: right;
+    width: 22%;
+    height: 300px;
+    margin: 0px;}
+
+#jobb {
+background: #999;
+
+
+}
+
+#jobb ul {
+    display: block;
+}
+
+#jobb li {
+    list-style-type: circle;
+    
+}
+
+
